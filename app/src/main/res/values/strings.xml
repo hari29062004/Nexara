@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nexara</string>
+    <string name="nexara">Nexara</string>
+    <!--walkthrough statement-->
+    <string name="welcome">This App Helps you to maintain Your social media accounts in single app and you can free up storage</string>
+    <string name="secure">They who can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety.</string>
+    <!--buttonstring-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+    <!--titles-->
+    <string name="welcome_to_nexara">Welcome To Nexara</string>
+    <string name="secure_and_privacy">Secure and Privacy</string>
+</resources>
